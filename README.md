@@ -1,2 +1,34 @@
-# trackmania-pbrt
-Simple PBRTv4 code for trackmania-cars driving down a highway
+# Trackmania PBRTv4 Render
+
+Simple PBRTv4 code of trackmania cars driving down a highway \
+I tried to make the cars look in motion by adding dust trails behind them that they've kicked up
+
+## Final Renders
+- the final renders are in the `final_render` folder
+- these are two 4K images rendered with 2048 samples per pixel
+- the second render is just a little lighter if you wanted to see the details better
+
+![cars driving down a highway at night](./final_renders/4k_2048_dark.png)\
+![cars driving down a highway at night](./final_renders/4k_2048_light.png)
+## Resources used:
+PBRTv4
+- https://www.pbrt.org/
+- https://github.com/mmp/pbrt-v4
+
+HDRI: 
+- created by Greg Zaal on Polyhaven
+- provided under the CC0 license
+- https://polyhaven.com/a/kloppenheim_02
+
+---
+
+Trackmania Car Model: 
+- created by amogusstrikesback2 on Sketchfab
+- provided under the CC Attribution license
+- https://sketchfab.com/3d-models/trackmania-2020-carsport-c8b80bfc1ed1427eb37f3eba8d1ecfbf
+
+---
+
+Road Texture:
+- created by Dmitriy Chugai on texturelib.com
+- http://texturelib.com/texture/?path=/Textures/road/road/road_road_0021

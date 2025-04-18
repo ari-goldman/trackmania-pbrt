@@ -1,0 +1,1 @@
+textures/kloppenheim_equiarea.exr filter=lfs diff=lfs merge=lfs -text
